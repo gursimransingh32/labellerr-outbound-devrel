@@ -1,0 +1,9 @@
+# Reflections
+
+**What would you improve about your submission if you had two more hours?**
+
+I would add a third contact at each account, a head of robot learning or data operations, because many of my contacts are founders who may forward vendor email, and Mind Robotics has no public data lead at all. Next, I would replace the hand-entered signal dates with an RSS pull from Robotics 24/7 and TechCrunch Robotics so the scores refresh themselves. I would also add a reachability factor, because the ranking currently cannot tell that Rivian's CEO is harder to reach than the CTO of a 50-person startup. Finally, I would pull customers' brand families automatically (for example from Wikidata's parent-organization field) instead of maintaining that list by hand.
+
+**What's one thing about this task you didn't already know how to do, and how did you figure it out?**
+
+I did not know how to prove that a company is not a customer, because 'not on the case-study page' is not the same as 'not a customer'. I layered sources: the case-study page, the logo wall (its alt text is broken, so I read it by eye and found MIT and Kapsys, which appear nowhere else), Labellerr's LinkedIn tagline, which named Toyota AI and UC Davis, and third-party listings; an unnamed testimonial on its homepage turned out to be an ex-Oishii engineer now at AIM, which became a warm path. The Toyota finding showed me that exact name matching is not enough, so I read the Python difflib documentation, added a distinctive-word check for subsidiaries, and mapped each customer's brand family (Volvo Cars owns Zenseact, Coupang owns Farfetch, Oishii bought Tortuga AgTech) so those brands are held for review. I used an AI assistant, which the brief allows, to speed up research and first-draft code, and every company and contact in the list links to its source so it can be checked.
