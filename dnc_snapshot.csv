@@ -1,0 +1,36 @@
+name,aliases,level,source_type,source_url,note
+Butterfly Positronics,,block,case study,https://www.labellerr.com/case-study/ice-hockey-field-marking-detection,
+FOSS,FOSS Analytical,block,case study + logo wall,https://www.labellerr.com/case-study/food-grain-segmentation-labellerr,
+Intuition Robotics,,block,case study,https://www.labellerr.com/case-study/revolutionizing-audio-labeling-with-labellerr-a-success-story-from-intuition-robotics,
+Foresight Health Solutions,Precognitas|Foresight Health,block,case study,https://www.labellerr.com/case-study/transforming-healthcare-precognitas-labellerr-success-story,
+Spare-It,Spare It,block,case study + logo wall,https://www.labellerr.com/case-study/spare-it-revolutionizes-waste-segmentation-with-labellerr-a-case-study,
+Wadhwan AI,Wadhwani AI|Wadhwani Institute for Artificial Intelligence,block,case study + homepage testimonial,https://www.labellerr.com/case-study/learn-how-this-research-organization-automated-quality-control-with-labellerr,
+Perceptly,,block,case study,https://www.labellerr.com/case-study/how-perceptly-uses-image-similarity-to-fatsen-up-annotation,
+Spot AI,,block,case study + logo wall,https://www.labellerr.com/case-study/case-study-spot-ai,
+Deep Sentinel,,block,case study,https://www.labellerr.com/case-study/case-study-deep-sentinel,
+Aftershoot,,block,case study + logo wall,https://www.labellerr.com/case-study/case-study-aftershoot,
+Oishii,,block,case study + logo wall,https://www.labellerr.com/case-study/case-study-oishii,
+Public Record Office Victoria,PROV,block,case study + logo wall,https://www.labellerr.com/case-study/case-study-prov,
+Stanford University,Stanford,block,case study + LinkedIn tagline,https://www.labellerr.com/case-study/how-stanford-streamlined-video-data-extraction-with-labellerr-ai,
+Coupang,,block,case study + logo wall + LinkedIn tagline,https://www.labellerr.com/case-study/how-coupang-improved-warehouse-automation-with-labellerr-ai,
+Volvo,Volvo Group|Volvo Cars,block,case study + logo wall + LinkedIn tagline,https://www.labellerr.com/case-study/how-volvo-improved-manufacturing-qa-with-labellerr,"Case study does not say which Volvo, so both parents are blocked"
+Krevera,,block,case study + logo wall,https://www.labellerr.com/case-study/how-krevera-improved-defect-detection-with-labellerr-ai,
+Mythos AI,Maythos AI|MythosAI,block,blog case study + logo wall,https://www.labellerr.com/blog/revolutionizing-image-annotation-how-labellerr-transformed-mythos-ais-workflow/,
+Adobe,,block,logo wall (visual check),https://www.labellerr.com/robotics-data,
+University of Maryland,UMD|University of Maryland College Park,block,logo wall (visual check),https://www.labellerr.com/robotics-data,
+MIT,Massachusetts Institute of Technology,block,logo wall (visual check),https://www.labellerr.com/robotics-data,
+Kapsys,KAPSYS|Kapsys Pte Ltd,block,logo wall (visual check),https://www.labellerr.com/robotics-data,"Two companies share the name (French assistive-device maker, and a digital agency); the logo alone doesn't say which, so both are blocked"
+UC Davis,University of California Davis,block,LinkedIn company tagline,https://linkedin.com/company/labellerr,
+Toyota AI,Toyota Research Institute|Woven by Toyota|Toyota,block,LinkedIn company tagline,https://linkedin.com/company/labellerr,Any other Toyota entity is flagged for review by the distinctive-word rule
+Siemens,Siemens Xcelerator,block,channel partner (Xcelerator Marketplace),https://www.labellerr.com/case-studies,
+Volvo Cars brands,Zenseact|Volvo Cars Tech Fund,review,owned brand of Volvo Cars,https://www.caproasia.com/?p=74891,"Volvo Cars Tech Fund is also a NEURA investor: a possible warm path, not a conflict"
+Volvo Group brands,Volvo Trucks|Volvo Buses|Volvo Construction Equipment|Volvo Penta|Volvo Autonomous Solutions|Mack Trucks|Renault Trucks|Nova Bus|Prevost,review,owned brand of Volvo Group,,
+Coupang brands,Coupang Eats|Coupang Play|Coupang Pay|Rocket Now|Farfetch|Ddnayo,review,owned brand of Coupang,https://www.businesswire.com/news/home/20240130015000/en/Coupang-Completes-Acquisition-of-Farfetch/,Farfetch acquired Jan 2024
+Oishii brands,Tortuga AgTech,review,owned brand of Oishii,https://agfundernews.com/oishii-acquires-tortuga-agtechs-ip-assets-and-engineering-team-to-supercharge-its-vertical-farms,"Harvest-robot maker; IP, assets and engineers acquired by Oishii in 2025"
+Toyota group brands,Toyota Industries|Toyota Material Handling|Raymond|Vanderlande|Bastian Solutions|T-Hive,review,owned brand of Toyota Industries,,"Toyota group, not necessarily the 'Toyota AI' customer, so review rather than block"
+Siemens brands,Altair|Siemens Healthineers|Siemens Mobility|Siemens Digital Industries Software,review,owned brand of Siemens,,"Partner, not customer: low risk, listed for completeness"
+MIT labs,MIT CSAIL|MIT Media Lab|MIT Lincoln Laboratory,review,lab of MIT,,
+Stanford labs,Stanford AI Lab|Stanford HAI,review,lab of Stanford University,,
+Intuition Robotics products,ElliQ,review,product brand of Intuition Robotics,,
+KAPSYS products,SmartVision|MiniVision,review,product brand of KAPSYS,https://sightcity.net/en/exhibitor/kapsys-en/,
+Adobe brands,Frame.io,review,owned brand of Adobe,,
